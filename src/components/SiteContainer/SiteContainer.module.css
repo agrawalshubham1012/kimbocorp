@@ -1,0 +1,10 @@
+.siteLayoutContent {
+    min-height: 60vh;
+    padding: 24px;
+    background: #f0f7fe;
+  }
+  
+  .ant-row-rtl #components-layout-demo-top .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
