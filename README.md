@@ -1,6 +1,6 @@
 
-#kimbocorp
-Instructions to install <br />
+## kimbocorp
+## Instructions to install <br />
  . git clone https://github.com/agrawalshubham1012/kimbocorp.git<br />
  . Go to cloned folder  and open it in terminal <br />
  . Type yarn install then hit enter<br />
