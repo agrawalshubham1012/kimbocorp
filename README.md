@@ -1,10 +1,10 @@
 
 #kimbocorp
-Instructions to install (Recommended to use yarn due to node version issue)
- . git clone https://github.com/agrawalshubham1012/kimbocorp.git
- . Go to cloned folder  and open it in terminal 
- . Type yarn install then hit enter
- . use yarn start or npm start to run application
+Instructions to install <br />
+ . git clone https://github.com/agrawalshubham1012/kimbocorp.git<br />
+ . Go to cloned folder  and open it in terminal <br />
+ . Type yarn install then hit enter<br />
+ . use yarn start or npm start to run application<br />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
